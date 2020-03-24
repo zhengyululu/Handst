@@ -40,4 +40,3 @@ $(function(){
         className:'htCenter htMiddle'
       });
 })
-    

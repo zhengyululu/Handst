@@ -7,14 +7,11 @@ html body{
   #main{
     width:800px;
     height:320px;
-    /* margin-left:15%; */
     margin:0 auto;
   }
   #chart{
       width:650px;
-      /* margin-left:15%; */
       margin:0 auto;
-
   }
   #all{
     text-align: center;
